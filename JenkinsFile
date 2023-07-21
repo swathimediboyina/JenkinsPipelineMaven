@@ -1,6 +1,6 @@
 node{
   stage{'SCM Checkout'}{
-    git 'https://github.com/BairaboinaVyshnavi/JenkinsPipelineMaven.git'
+    git 'https://github.com/Ramapuram-Deepa/JenkinsPipelineMaven.git'
   }
   stage{'Compile-Package'}{
     
